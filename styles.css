@@ -1,0 +1,17 @@
+header {
+    background: aqua;
+    text-align: center;
+    padding: 20px;
+}
+
+#About {
+    text-align: center;
+    padding:20px;
+    margin: 10px;
+}
+
+#Contact {
+    text-align: center;
+    padding:20px;
+    margin: 10px
+}
